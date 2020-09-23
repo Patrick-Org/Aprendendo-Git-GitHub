@@ -1,2 +1,4 @@
 # Aprendendo Git GitHub
-  Primeiro repositorio
+  Primeiro repositório
+
+  Repositorio criado durante curso.
